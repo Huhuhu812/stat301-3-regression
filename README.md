@@ -10,7 +10,7 @@ Training scripts are named like `job_<modelType>.R`, while model selection, pred
 
 ## Reproducing
 
-The .csv files can be reproduced directly by running the respective `evaluate_<model>.R` file. To run the full pipeline, scripts should be run in the following order.
+To run the full pipeline, scripts should be run in the following order.
 
 -   `clean.R` and `clean_test.R`
 
